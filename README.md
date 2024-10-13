@@ -12,8 +12,6 @@ Hi there! 👋<br><br>I'm an aspiring Software Developer passionate about buildi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=btsalwa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=btsalwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=btsalwa&icon=2&color=12)](https://visitcount.itsvg.in)
